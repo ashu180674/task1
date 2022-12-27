@@ -7,7 +7,8 @@
 In this artitecture i use 2 ubuntu instances one for jenkins and other is to build,upload and deploy docker image.
 
 Image url -->  https://hub.docker.com/repository/docker/ashu180674/project1
-I deployd thus app with pipeline as a code the code is 
+
+I deployd thus app with pipeline as a code the code is -->
 
 
 
